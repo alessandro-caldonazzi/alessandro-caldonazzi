@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
+- 👥 I’m looking to collaborate with other developer
 
 ### Connect with me:
 
