@@ -34,4 +34,4 @@
 
 ![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=alessandro-caldonazzi&count_private=true&show_icons=true)
 
-[linkedin]: https://linkedin.com/in/alessandro-caldonazzi-0038b2193/
+[linkedin]: https://linkedin.com/in/alessandro-caldonazzi/
